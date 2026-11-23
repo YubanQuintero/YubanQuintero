@@ -23,4 +23,4 @@
 - Backend development best practices
 - Software design and maintainability
 
-📫 Contact: [Your email]
+📫 Contact: yubanq09@gmail.com
