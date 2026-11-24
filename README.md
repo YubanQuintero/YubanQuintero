@@ -7,8 +7,10 @@
 ### Technologies & Tools
 
 - **Languages:** Java, Python, PHP
-- **Frameworks:** Laravel
+- **Frameworks:** Laravel, Bootstrap
+- **Frontend:** HTML, CSS, Bootstrap
 - **Databases:** SQL, relational databases
+- **Operating Systems:** Linux, Windows
 - **Tools:** Git, GitHub
 - **Software Architecture:** Layered Architecture, MVC, learning Hexagonal Architecture
 - **Concepts:** Object-Oriented Programming, CRUD applications, database relationships
